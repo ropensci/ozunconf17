@@ -11,17 +11,18 @@
       <div class="container">
         <div class="404">
           <div class="intro-text">
+        <section class="bg-joinus">
             <div class="intro-heading">Page not found</div>
 
             {{ with .Site.Params.error404 }}
-            <div class="intro-lead-in">{{ .heading | markdownify }}</div>
+            <div class="intro-heading">{{ .heading | markdownify }}</div>
 
-            <div class="intro-lead-in">{{ .text | markdownify }}</div>
+            <div class="intro-heading">{{ .text | markdownify }}</div>
             {{ else }}
             <div class="intro-lead-in">Requested page could not be found.</div>
             <div class="intro-lead-in">You can always go back to our main <a href="{{ .Site.BaseURL }}">page</a>.</div>
             {{ end }}
-
+      </section>
           </div>
         </div>
       </div>
