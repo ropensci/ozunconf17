@@ -5,7 +5,7 @@ __(invitation only), Oct 26 - 27, 2017. Melbourne__
 
 Welcome to the repository for the 2017 ozunconf.  rOpenSci will be hosting its fourth major developer meeting and open science hackathon this time in Melbourne, Australia.
 
-* [Participants](http://ozunconf17.ropensci.org/#participants)
+* [Participants](http://ozunconf17.ropensci.org/#team)
 * Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/ozunconf17/issues/) and move to the wiki and/or a new repo within rOpenSci's account as needed.
 
 Event hashtag is `#rozunconf17`
