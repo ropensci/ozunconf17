@@ -44,14 +44,14 @@ a.active {
 }
 
 a {
-    color: #fbf1ce;
+    color: #756F58;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fbf1ce;
+    color: #FEEDB1;
 }
 
 h1,
@@ -90,7 +90,7 @@ h2 {
 }
 
 .bg-darkest-gray a {
-    color: #f1c40f;
+    color: #FEEDB1;
 }
 
 .bg-joinus {
@@ -102,7 +102,7 @@ h2 {
 }
 
 .bg-joinus a {
-    color: #f1c40f;
+    color: #FEEDB1;
 }
 
 .bg-sponsors {
