@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/ozunconf17/coc/</loc>
+  </url>
+  
+  <url>
+    <loc>/ozunconf17/terms/</loc>
+  </url>
+  
+  <url>
+    <loc>/ozunconf17/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ozunconf17/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ozunconf17/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
