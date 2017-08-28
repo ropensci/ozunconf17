@@ -244,7 +244,7 @@ googleAnalytics = ""
   [params.footer]
     enable = true
     copyright = "Published under the Apache License 2.0."
-    text = "[Contact us](https://njtierney.typeform.com/to/RYOPYW) for more information about the event. This page is available at [this repo](https://github.com/robjhyndman/ozunconf17/). Corrections, changes, and suggestions for improvement are welcome as pull requests."
+    text = "[Contact us](https://njtierney.typeform.com/to/RYOPYW) for more information about the event. This page is available at [this repo](https://github.com/ropensci/ozunconf17). Corrections, changes, and suggestions for improvement are welcome as pull requests."
 
     [[params.footer.quicklinks]]
       text = "Privacy Policy"
