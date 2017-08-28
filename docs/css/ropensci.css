@@ -211,13 +211,19 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default {
-    border-color: #555;
-    background-color: #27ae60;
+    border-color: #27ae60;
+    background-color: #eee;
 }
 
+.navbar-default .navbar-nav > li > a {
+  color: #27ae60;
+  background-color: #FFF;
+  border-color: #27ae60;
+}
 .navbar-default .navbar-brand {
     font-family: "Helvetica Neue",Helvetica,Arial,cursive;
     color: #27ae60;
+    height: 50px;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -260,18 +266,13 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #27ae60;
+    background-color: #eeeeee;
 }
 
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-    background-color:#27ae60;
-}
 
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #27ae60;
     text-decoration: none;
     border: 1px solid #27ae60;
     padding: 0.4rem 0.8rem;
@@ -295,7 +296,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #27ae60;
+    background-color: #ddd;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -349,23 +350,24 @@ header {
 }
 
 header .intro-text {
-    padding-top: 10px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 20px;
 }
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 12px;
-    line-height: 2px;
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 700;
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
-    font-weight: 700;
-    line-height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20x;
 }
 
 @media(min-width:768px) {
@@ -384,7 +386,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 25px;
         font-weight: 500;
         line-height: 25px;
