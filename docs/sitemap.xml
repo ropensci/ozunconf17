@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/ozunconf17/coc/</loc>
+    <loc>/coc/</loc>
   </url>
   
   <url>
-    <loc>/ozunconf17/terms/</loc>
+    <loc>/terms/</loc>
   </url>
   
   <url>
-    <loc>/ozunconf17/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/ozunconf17/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/ozunconf17/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   

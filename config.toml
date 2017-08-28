@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://pkg.robjhyndman.com/ozunconf17"
+baseurl = "https://ozunconf17.ropensci.org"
 canonifyurls = true
 relativeurls = false
 languageCode = "en-us"
