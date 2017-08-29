@@ -436,7 +436,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 30px 0;
+        padding: 70px 0;
     }
 }
 
@@ -765,6 +765,8 @@ section h3.section-subheading {
     color: #333;
     font-size: 18px;
     line-height: 20px;
+    margin-top: 0px;
+    margin-bottom: 5px;
 }
 
 .team-member h4 {
@@ -773,6 +775,7 @@ section h3.section-subheading {
     font-weight: 400;
     color: #777;
     margin-bottom: 0px;
+    margin-top: 0px;
     line-height: 16px;
 }
 
@@ -785,6 +788,7 @@ section h3.section-subheading {
     text-transform: none;
     font-style: italic;
     font-weight: 200;
+    margin-top: 0px;
     color: #777;
     margin-bottom: 1px
 }
@@ -916,17 +920,17 @@ footer ul.quicklinks {
 }
 
 ul.social-buttons {
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
 
 ul.social-buttons li a {
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     border-radius: 100%;
     font-size: 20px;
-    line-height: 40px;
+    line-height: 30px;
     outline: 0;
     color: #fff;
     background-color: #222;
