@@ -3,7 +3,7 @@ baseurl = "https://ozunconf17.ropensci.org"
 canonifyurls = true
 relativeurls = false
 languageCode = "en-us"
-title = "rOpenSci Unconference"
+title = "rOpenSci OzUnconference"
 location = "Melbourne 2017"
 theme = "hugo-ropensci-theme"
 publishDir = "docs"
@@ -15,7 +15,7 @@ googleAnalytics = ""
 [params]
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "ROpenSci Unconference"
+  name = "rOpenSci OzUnconference"
   description = "Melbourne, Australia. 26-27 October 2017"
 
   # Link custom assets relative to /static
@@ -73,7 +73,7 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "rOpenSci Unconf"
+    title = "rOpenSci OzUnconf"
     subtitle = "26-27 October 2017 • Melbourne • Australia"
     buttonText = "Tell me more"
 
@@ -81,8 +81,8 @@ googleAnalytics = ""
    # About section
    [params.about]
     enable = true
-    title = "The unconference"
-    text = "For a second year running, [rOpenSci](http://ropensci.org/) is excited to announce another Australian unconference in 2017 held in Melbourne, Victoria. We're organizing this event to bring together scientists, developers, and open data enthusiasts from academia, industry, government, and non-profit to get together for a few days and hack on various projects. [Past projects](http://ropensci.org/blog/2014/05/14/ropenhack/) have related to open data, data visualization, data publication and open science using R. To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a strict [code of conduct](/coc) and [terms and conditions](/terms).\n\n All unconference ideas will begin as GitHub issues on the [unconf repo](https://github.com/ropensci/ozunconf17/issues/) in the weeks before the event. However, the actual schedule will not be decided until the morning of the 26th. You can see some of the [projects proposed](https://github.com/ropensci/auunconf/issues) for last year's event in Australia, and the [projects proposed](https://github.com/ropensci/unconf17/issues) at the unconf in LA earlier this year."
+    title = "The OzUnconference"
+    text = "For a second year running, we are excited to announce another [rOpenSci](http://ropensci.org/) OzUnconference in 2017 held in Melbourne, Australia. We're organizing this event to bring together scientists, developers, and open data enthusiasts from academia, industry, government, and non-profit to get together for a few days and hack on various projects. Past projects have related to open data, data visualization, data publication and open science using R. To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a strict [code of conduct](/coc) and [terms and conditions](/terms).\n\n All OzUnconference ideas will begin as GitHub issues on the [OzUnconf repo](https://github.com/ropensci/ozunconf17/issues/) in the weeks before the event. However, the actual schedule will not be decided until the morning of the 26th. You can see some of the [projects proposed](https://github.com/ropensci/auunconf/issues) for last year's event in Australia, and the [projects proposed](https://github.com/ropensci/unconf17/issues) at the unconf in LA earlier this year."
 
   # Team section
   [params.team]
@@ -90,7 +90,7 @@ googleAnalytics = ""
     # Possibility to center items
     #center = true
     title = "Participants"
-    text = "We are assembling an exciting team of developers and enthusiasts representing academia, industry, government, and various open source projects."
+    text = "We are assembling an exciting team of developers and enthusiastic users representing academia, industry, government, and various open source projects."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
@@ -155,7 +155,7 @@ googleAnalytics = ""
   [params.joinus]
   enable=true
   title = "Join us"
-  text = "The rOpenSci conference is our annual event loosely modeled on Foo Camp. This event is unlike many other unconferences in that it is mostly invite-only (past attendees often recommend new ones) with a few spots set aside for self-nominations from the community at large. The agenda is mostly decided during the conference itself. \n\n  If you'd like to attend, it only takes a few minutes to [nominate yourself](http://ozunconf17.ropensci.org/apply). \n\n The deadline for nominations is 17 September 2017."
+  text = "The rOpenSci OzUnconference is our annual event loosely modeled on Foo Camp. This event is unlike many other unconferences in that it is mostly invite-only (past attendees often recommend new ones) with a few spots set aside for self-nominations from the community at large. The agenda is mostly decided during the conference itself. \n\n  If you'd like to attend, it only takes a few minutes to [nominate yourself](http://ozunconf17.ropensci.org/apply). \n\n The deadline for nominations is 17 September 2017."
 
 # Venue section
   [params.venue]
@@ -170,18 +170,19 @@ googleAnalytics = ""
       # Possibility to center items
       #center = true
       title = "Sponsors"
-      text = "We are extremely grateful to all the sponsors for this year's event. If your organization would like to sponsor the unconf, please email nicholas.tierney [at] monash edu for a sponsorship prospectus."
+      text = "We are extremely grateful to all the sponsors for this year's event. If your organization would like to sponsor the OzUnconf, please email nicholas.tierney [at] monash edu for a sponsorship prospectus."
 
       # All the clients' logos are stored under 'static/img/sponsors'.
       # Replace them with your sponsors's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
       [[params.sponsors]]
+        logo = "ropensci-lettering-colour.png"
+        link = "http://ropensci.org"
+        
+      [[params.sponsors]]
         logo = "rstudio-logo.png"
         link = "http://rstudio.com"
 
-      [[params.sponsors]]
-        logo = "ropensci-lettering-colour.png"
-        link = "http://ropensci.org"
 
   # Contact section
   [params.contact]
