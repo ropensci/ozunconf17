@@ -151,6 +151,13 @@ googleAnalytics = ""
       github = "earowang"
       url = "http://earo.me"
 
+    [[params.team.members]]
+      name = "Charles Gray"
+      position = "La Trobe University"
+      img = "charles-gray.jpg"
+      twitter = "cantabile"
+      url = "http://choosemaths.org.au/charles-gray/"
+
 # Join us section
   [params.joinus]
   enable=true
@@ -178,7 +185,7 @@ googleAnalytics = ""
       [[params.sponsors]]
         logo = "ropensci-lettering-colour.png"
         link = "http://ropensci.org"
-        
+
       [[params.sponsors]]
         logo = "rstudio-logo.png"
         link = "http://rstudio.com"
