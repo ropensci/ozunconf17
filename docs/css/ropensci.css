@@ -1050,4 +1050,34 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #4f728d;
-}-
+}
+
+/* Wrapping images for venue section */
+
+.wrapper { 
+  border : 0px solid #000; 
+  overflow:hidden;
+}
+
+.wrapper div {
+   min-height: 230px;
+   padding: 10px;
+}
+#map {
+  float:left; 
+  margin-right: 0px;
+}
+#venueimage { 
+  overflow:hidden;
+  margin-top: 0px;
+  min-height:230px;
+}
+
+@media screen and (max-width: 600px) {
+   #map { 
+    float: none;
+    margin-right:0;
+    width:auto;
+    border:0;
+  }
+}
