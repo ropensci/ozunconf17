@@ -19,6 +19,14 @@
   </url>
   
   <url>
+    <loc>/yay/</loc>
+  </url>
+  
+  <url>
+    <loc>/yay/</loc>
+  </url>
+  
+  <url>
     <loc>/apply/</loc>
     <priority>0</priority>
   </url>
@@ -30,6 +38,11 @@
   
   <url>
     <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/yay/</loc>
     <priority>0</priority>
   </url>
   

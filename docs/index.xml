@@ -46,5 +46,23 @@
       <description>rOpenSci unconf terms and conditions These terms and conditions apply to the rOpenSci Unconference 2017 (“Event”) hosted by and on behalf of The rOpenSci project, a fiscally sponsored project of Numfocus Inc, a non-profit registered in Texas (P.O. Box 90596 Austin, TX 78709 USA). The purpose of the Event is to encourage development of open source tools and grow a community of open source developers and mentors around the R programming language.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/yay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/yay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/yay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/yay/</guid>
+      <description>  rOpenSci ozunconf 2017 info html{ margin: 0; height: 100%; overflow: hidden; } iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; }        </description>
+    </item>
+    
   </channel>
 </rss>
