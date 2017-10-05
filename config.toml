@@ -278,7 +278,7 @@ googleAnalytics = ""
       position = "Monash University"
       img = "samithree-rajapaksha.jpg"
       twitter = ""
-      github = ""
+      github = "spsamithree"
       url = ""
       
     [[params.team.members]]
