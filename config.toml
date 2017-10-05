@@ -193,7 +193,7 @@ googleAnalytics = ""
       
     [[params.team.members]]
       name = "Holly Kirk"
-      position = "University of Melbourne"
+      position = "RMIT University"
       img = "holly-kirk.jpg"
       twitter = "HollyKirk"
       github = "hollylkirk"
@@ -419,6 +419,22 @@ googleAnalytics = ""
       twitter = ""
       github = "https://github.com/steveage"
       url = "https://stevebennett.me/"
+    
+    [[params.team.members]]
+      name = "Mitch O'Hara-Wild"
+      position = "Monash University"
+      img = "mitch-ohara-wild.jpg"
+      twitter = "mitchoharawild"
+      github = "mitchelloharawild"
+      url = ""
+    
+    [[params.team.members]]
+      name = "Tim Churches"
+      position = "Ingham Institute for Applied Medical Research"
+      img = "tim-churches.jpg"
+      twitter = "timchurches"
+      github = "timchurches"
+      url = ""
     
 
 # Join us section
