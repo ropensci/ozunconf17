@@ -475,6 +475,10 @@ googleAnalytics = ""
       [[params.sponsors]]
         logo = "rstudio-logo.png"
         link = "http://rstudio.com"
+      
+      [[params.sponsors]]
+        logo = "RConsortium.png"
+        link = "https://www.r-consortium.org/"
 
 
   # Contact section
