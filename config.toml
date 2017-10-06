@@ -419,6 +419,14 @@ googleAnalytics = ""
       url = "https://www.linkedin.com/in/yan-holtz-2477534a/?ppe=1"
     
     [[params.team.members]]
+      name = "Kim Fitter"
+      position = "Independent"
+      img = "kim-fitter.jpg"
+      twitter = "Kim_Fitter"
+      github = "kimnewzealand"
+      url = ""
+    
+    [[params.team.members]]
       name = "Steve Bennett"
       position = "opencouncildata.org"
       img = "steve-bennett.jpg"
