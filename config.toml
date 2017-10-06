@@ -298,6 +298,13 @@ googleAnalytics = ""
       github = "dvukcevic"
       url = "http://damjan.vukcevic.net/"
     
+    [[params.team.members]]
+      name = "Jacinta Holloway"
+      position = "Queensland University of Technology"
+      img = "jacinta-holloway.jpg"
+      twitter = ""
+      github = ""
+      url = ""
     
     [[params.team.members]]
       name = "Grahame Grieve"
@@ -306,7 +313,6 @@ googleAnalytics = ""
       twitter = "grahamegrieve"
       github = "grahamegrieve"
       url = "http://www.healthintersections.com.au"
-    
     
     [[params.team.members]]
       name = "Daniel Falster"
