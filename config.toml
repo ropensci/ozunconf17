@@ -244,7 +244,7 @@ googleAnalytics = ""
     [[params.team.members]]
       name = "Richard Beare"
       position = "Monash University"
-      img = "richard-beare.jpg"
+      img = "richard-beare.JPG"
       twitter = ""
       github = "richardbeare"
       url = ""
