@@ -458,6 +458,14 @@ googleAnalytics = ""
       github = "timchurches"
       url = ""
     
+    [[params.team.members]]
+      name = "Justin Carmody"
+      position = "Monash University"
+      img = "justin-carmody.jpg"
+      twitter = "SaltedPorkkk"
+      github = "SaltedPorkkk"
+      url = ""
+    
 
 # Join us section
   [params.joinus]
