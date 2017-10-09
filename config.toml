@@ -443,6 +443,14 @@ googleAnalytics = ""
       url = ""
     
     [[params.team.members]]
+      name = "Alicia Allan"
+      position = "Queensland University of Technology"
+      img = "alicia-allan.jpg"
+      twitter = "correctalicia"
+      github = "leeshdiz"
+      url = "http://staff.qut.edu.au/staff/allan4/"
+    
+    [[params.team.members]]
       name = "Tim Churches"
       position = "Ingham Institute for Applied Medical Research"
       img = "tim-churches.jpg"
