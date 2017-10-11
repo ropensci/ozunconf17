@@ -363,14 +363,6 @@ googleAnalytics = ""
       url = ""
       
     [[params.team.members]]
-      name = "Anna Quaglieri"
-      position = "WEHi"
-      img = "anna-quaglieri.jpg"
-      twitter = "annaquagli"
-      github = "annaquaglieri16"
-      url = ""
-      
-    [[params.team.members]]
       name = "Diego Barneche"
       position = "Monash University"
       img = "diego-barneche.jpg"
