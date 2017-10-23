@@ -157,14 +157,15 @@ googleAnalytics = ""
       position = "La Trobe University"
       img = "charles-gray.jpg"
       twitter = "cantabile"
+      github = "softloud"
       url = "http://choosemaths.org.au/charles-gray/"
     
     [[params.team.members]]
       name = "Stefan Milton Bache"
       position = "Redbubble"
       img = "stefan-milton-bache.jpg"
-      twitter = "https://twitter.com/stefanbache"
-      github = "https://github.com/smbache"
+      twitter = "stefanbache"
+      github = "smbache"
       url = "http://stefanbache.dk/"
       
       [[params.team.members]]
@@ -203,7 +204,7 @@ googleAnalytics = ""
       name = "Elle Saber"
       position = "Australian National University"
       img = "elle-saber.jpg"
-      twitter = "@ellesaber"
+      twitter = "ellesaber"
       github = "ellesaber"
       url = ""
     
@@ -302,7 +303,7 @@ googleAnalytics = ""
       name = "Jacinta Holloway"
       position = "Queensland University of Technology"
       img = "jacinta-holloway.jpg"
-      twitter = ""
+      twitter = "thejholloway"
       github = ""
       url = ""
     
@@ -383,7 +384,7 @@ googleAnalytics = ""
       position = "University of Melbourne"
       img = "jackson-kwok.jpg"
       twitter = ""
-      github = "https://github.com/kcf-jackson"
+      github = "kcf-jackson"
       url = "https://github.com/kcf-jackson"
       
     [[params.team.members]]
@@ -407,7 +408,7 @@ googleAnalytics = ""
       position = "University of Queensland"
       img = "yan-holtz.jpg"
       twitter = ""
-      github = "https://github.com/holtzy/"
+      github = "holtzy"
       url = "https://www.linkedin.com/in/yan-holtz-2477534a/?ppe=1"
     
     [[params.team.members]]
@@ -423,7 +424,7 @@ googleAnalytics = ""
       position = "opencouncildata.org"
       img = "steve-bennett.jpg"
       twitter = ""
-      github = "https://github.com/steveage"
+      github = "steveage"
       url = "https://stevebennett.me/"
     
     [[params.team.members]]
@@ -495,6 +496,14 @@ googleAnalytics = ""
       [[params.sponsors]]
         logo = "RConsortium.png"
         link = "https://www.r-consortium.org/"
+      
+      [[params.sponsors]]
+        logo = "ingham-inst.png"
+        link = "https://inghaminstitute.org.au/"
+      
+      [[params.sponsors]]
+        logo = "monash-business-school.jpg"
+        link = "http://www.monash.edu/business"
 
 
   # Contact section
