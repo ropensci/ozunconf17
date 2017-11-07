@@ -39,6 +39,15 @@
     
     <item>
       <title></title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>R OpenSci ozunconference 2017 Projects 🇦🇺 🏈 AFLW - AFL Data 🇦🇺 👩 🏈 AFLW - AFL Womens Data 🏏 cricinfo - access cricket data from cricinfo  🏠 datagovau - R package to download data catalogued at data.gov.au 🚀 icon - easily insert web icons 🇦🇺 🎨 ochRe - Australia-themed Colour Palettes 🛩 ozflights - pull Aviation data from BITRE  🛣 ozroaddeaths - Pull data from the Australian Road Deaths Database 〰️ realtime - Plot real time events 🔥 ronfhir - makes data available in R from servers that follow the FHIR format 🕙️ stow - simple version control in R 〽️ styles - themes for base plots 🚋 tRainspotting - gtfs-r feeds from R, with leaflet maps If there are any projects that you know are missing please fork this document on GitHub, make changes, and then send a pull request.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

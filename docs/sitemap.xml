@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/apply/</loc>
@@ -11,6 +12,10 @@
   
   <url>
     <loc>/coc/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
   </url>
   
   <url>
